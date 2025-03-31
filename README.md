@@ -91,7 +91,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 - Class Diagram
 
 
-### ================= Dummy Database Initialization =================
+### ================= MySQL Database =================
 
 
 
