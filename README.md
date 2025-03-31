@@ -45,12 +45,6 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
 - : MySQL Workbench [https://www.youtube.com/watch?v=t79oCeTXHwg]
 
-### ================= Dummy Database Initialization =================
-
-
-
-
-
 
 #### Some Screenshots for the project:
 - Home Page
@@ -88,8 +82,10 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 - Sample Email for order placed
 
-
 - Class Diagram
+
+
+### ================= Dummy Database Initialization =================
 
 
 #### "Suggestions and project improvement ideas are welcomed!"
