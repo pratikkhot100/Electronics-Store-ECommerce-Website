@@ -37,7 +37,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - MySql
   
 
-#### Some Screenshots for the project:
+### Some Screenshots for the project:
 - Home Page
 
 
