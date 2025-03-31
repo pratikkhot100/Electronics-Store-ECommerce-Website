@@ -20,6 +20,32 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - The Item was out of stock while exploring but now it got available in the store
 - Successful shipment and delivery of the Item
 
+### Admin Actions:-
+- View, search and filter items in the store
+- Add More Product Items In the Store
+- View, Update and Remove Stock Items
+- View all the shipped and unshipped orders
+- Ship the recent orders from the store
+  
+### Mailing Functionality:-
+- Customers will receive mails to their registered mail id, when:-
+- Customer Registers for the first time
+- Order is Placed Successfully
+- Order Item is Shipped
+- Out of stock items got available
+
+### Customer Actions:-
+- Place Orders using after demo payment
+- View Previous Orders History
+- Track Order Status
+- View User Profile Details
+- Provide Feedback to the admin using contact us box
+- Register, Login and Logout
+- View, Search and filter items available in the store
+- Add Items to the shopping Cart
+- Update and remove item from cart
+- Proceed with demo credit card payment
+
 ### Technologies used:-
 1. Front-End Development:
 - HTML
