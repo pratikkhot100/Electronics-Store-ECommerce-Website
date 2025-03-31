@@ -36,6 +36,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 3. Database:
 - MySql
 
+
 ### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 Step 1: Create a gmail account or login to existing account in any browser
 
@@ -49,6 +50,7 @@ Step 5: After that it will generate 16 digits app password which you need to cop
 
 Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
   
+
 
 ### Some Screenshots for the project:
 - Home Page
