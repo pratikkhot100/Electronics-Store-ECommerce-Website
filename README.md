@@ -96,7 +96,6 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
   
  ![Screenshot 2025-04-10 152428](https://github.com/user-attachments/assets/62d68a39-bf7c-4c49-b421-c880f4754641)
 
-
 - Category Wise Product Filter
 
  ![Screenshot 2025-04-08 162504](https://github.com/user-attachments/assets/a6d70b43-39c0-4ffd-9907-6aa4c57128c2)
@@ -110,12 +109,12 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
  ![Screenshot 2025-04-08 162558](https://github.com/user-attachments/assets/abc47e4b-6476-4795-ae17-50a29f18a4ea)
 
 - Order Details & Status
-  
-  ![Screenshot 2025-04-10 154202](https://github.com/user-attachments/assets/735c5f29-cddb-463c-a38f-4e37f541f7ed)
+
+ ![Screenshot 2025-04-10 154202](https://github.com/user-attachments/assets/735c5f29-cddb-463c-a38f-4e37f541f7ed)
 
 - User Profile
   
-  ![Screenshot 2025-04-10 155912](https://github.com/user-attachments/assets/76d5a8d3-81ed-4f9b-83fe-eb2c4e7d1bb7)
+ ![Screenshot 2025-04-10 155912](https://github.com/user-attachments/assets/76d5a8d3-81ed-4f9b-83fe-eb2c4e7d1bb7)
 
 - Admin Home
 
