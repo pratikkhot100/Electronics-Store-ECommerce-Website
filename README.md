@@ -126,12 +126,11 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Shipped Items
 
- ![Screenshot 2025-04-08 163005](https://github.com/user-attachments/assets/f595cbfb-9c12-4924-ad16-52031cd76711)
+ ![Screenshot 2025-04-10 154202](https://github.com/user-attachments/assets/dff6f1e8-cdfd-4637-bf29-93b4cf7881ea)
 
 - Recent Orders yet to be shipped
-  
-  ![Screenshot 2025-04-10 154233](https://github.com/user-attachments/assets/057ce66f-665f-4e51-9f94-714d1b130af7)
 
+ ![Screenshot 2025-04-10 154233](https://github.com/user-attachments/assets/057ce66f-665f-4e51-9f94-714d1b130af7)
 
 - Add Product to the stock
 
@@ -153,7 +152,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Class Diagram
 
- ![image](https://github.com/user-attachments/assets/8d3c7984-2a8e-4d9d-88f2-1871ce721676)
+<img width="589" alt="database png" src="https://github.com/user-attachments/assets/1af684ab-c795-4beb-b810-92768c5dad6f" />
 
 
 ## ================= MySQL Database =================
