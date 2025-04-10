@@ -148,7 +148,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Class Diagram
 
-  ![image](https://github.com/user-attachments/assets/8d3c7984-2a8e-4d9d-88f2-1871ce721676)
+ ![image](https://github.com/user-attachments/assets/8d3c7984-2a8e-4d9d-88f2-1871ce721676)
 
 
 ## ================= MySQL Database =================
