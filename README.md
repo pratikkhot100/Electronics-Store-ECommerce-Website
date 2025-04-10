@@ -157,7 +157,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 ## ================= MySQL Database =================
 
-- [MySQL Database](https://github.com/pratikkhot100) 
+- [MySQL Database](https://github.com/pratikkhot100/Electronics-Store-ECommerce-Website/blob/main/mysql_database.sql) 
 
 
 ## "Suggestions and project improvement ideas are welcomed!"
