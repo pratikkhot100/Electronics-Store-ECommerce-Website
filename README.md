@@ -110,8 +110,8 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
  ![Screenshot 2025-04-08 162558](https://github.com/user-attachments/assets/abc47e4b-6476-4795-ae17-50a29f18a4ea)
 
 - Order Details & Status
-
   
+  ![Screenshot 2025-04-10 154202](https://github.com/user-attachments/assets/735c5f29-cddb-463c-a38f-4e37f541f7ed)
 
 - User Profile
 
@@ -131,6 +131,8 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Recent Orders yet to be shipped
   
+  ![Screenshot 2025-04-10 154233](https://github.com/user-attachments/assets/057ce66f-665f-4e51-9f94-714d1b130af7)
+
 
 - Add Product to the stock
 
@@ -141,6 +143,10 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
  ![Screenshot 2025-04-08 163204](https://github.com/user-attachments/assets/5dd9bc9e-446e-431d-9e9e-bc9ac2ed784b)
 
 - Update the stock item
+
+ ![Screenshot 2025-04-10 155359](https://github.com/user-attachments/assets/2b6cef22-0110-4792-944d-5fa22f6615d0)
+
+ ![Screenshot 2025-04-10 155418](https://github.com/user-attachments/assets/68edfefb-a6d4-4333-8153-9ffa3c012362)
 
 - Sample Email for order placed
   
