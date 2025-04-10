@@ -82,30 +82,30 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Home Page
 
-![Screenshot 2025-03-31 211553](https://github.com/user-attachments/assets/e3ee8067-7cdd-42f8-985c-f90f85b8dcc4)
+ ![Screenshot 2025-03-31 211553](https://github.com/user-attachments/assets/e3ee8067-7cdd-42f8-985c-f90f85b8dcc4)
 
 - Login Page
 
-![Screenshot 2025-03-31 211620](https://github.com/user-attachments/assets/ff9edd66-9325-4467-824b-2d36747cc9b9)
+ ![Screenshot 2025-03-31 211620](https://github.com/user-attachments/assets/ff9edd66-9325-4467-824b-2d36747cc9b9)
 
 - Register Page
 
-![Screenshot 2025-03-31 211659](https://github.com/user-attachments/assets/d51c8144-1bbd-447b-977a-f009fde9ba80)
+ ![Screenshot 2025-03-31 211659](https://github.com/user-attachments/assets/d51c8144-1bbd-447b-977a-f009fde9ba80)
 
 - Registration Mail
   
 
 - Category Wise Product Filter
 
-![Screenshot 2025-04-08 162504](https://github.com/user-attachments/assets/a6d70b43-39c0-4ffd-9907-6aa4c57128c2)
+ ![Screenshot 2025-04-08 162504](https://github.com/user-attachments/assets/a6d70b43-39c0-4ffd-9907-6aa4c57128c2)
 
 - Cart Items
 
-![Screenshot 2025-04-08 162533](https://github.com/user-attachments/assets/33c7c3a8-7d9e-4b23-90b2-412433ea18ed)
+ ![Screenshot 2025-04-08 162533](https://github.com/user-attachments/assets/33c7c3a8-7d9e-4b23-90b2-412433ea18ed)
 
 - Credit Card Payment
 
-  ![Screenshot 2025-04-08 162558](https://github.com/user-attachments/assets/abc47e4b-6476-4795-ae17-50a29f18a4ea)
+ ![Screenshot 2025-04-08 162558](https://github.com/user-attachments/assets/abc47e4b-6476-4795-ae17-50a29f18a4ea)
 
 - Order Details & Status
 
@@ -113,30 +113,29 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - User Profile
 
-![Screenshot 2025-04-08 162705](https://github.com/user-attachments/assets/2fc8796b-c587-4d3b-a1f9-667f8743e08b)
+ ![Screenshot 2025-04-08 162705](https://github.com/user-attachments/assets/2fc8796b-c587-4d3b-a1f9-667f8743e08b)
 
 - Admin Home
 
-  ![Screenshot 2025-04-08 162819](https://github.com/user-attachments/assets/c14c2dbb-5083-4088-85c8-852b20fbe7cb)
-
+ ![Screenshot 2025-04-08 162819](https://github.com/user-attachments/assets/c14c2dbb-5083-4088-85c8-852b20fbe7cb)
 
 - Stock Items
 
-![Screenshot 2025-04-08 162843](https://github.com/user-attachments/assets/e49b06c8-1f72-453a-bca7-46eb137bb1e0)
+ ![Screenshot 2025-04-08 162843](https://github.com/user-attachments/assets/e49b06c8-1f72-453a-bca7-46eb137bb1e0)
 
 - Shipped Items
 
-  ![Screenshot 2025-04-08 163005](https://github.com/user-attachments/assets/f595cbfb-9c12-4924-ad16-52031cd76711)
+ ![Screenshot 2025-04-08 163005](https://github.com/user-attachments/assets/f595cbfb-9c12-4924-ad16-52031cd76711)
 
 - Recent Orders yet to be shipped
 
 - Add Product to the stock
 
-![Screenshot 2025-04-08 163150](https://github.com/user-attachments/assets/066de5a4-4294-449a-9ba1-16136be6d6bb)
+ ![Screenshot 2025-04-08 163150](https://github.com/user-attachments/assets/066de5a4-4294-449a-9ba1-16136be6d6bb)
 
 - Remove Product from the stock
 
-![Screenshot 2025-04-08 163204](https://github.com/user-attachments/assets/5dd9bc9e-446e-431d-9e9e-bc9ac2ed784b)
+ ![Screenshot 2025-04-08 163204](https://github.com/user-attachments/assets/5dd9bc9e-446e-431d-9e9e-bc9ac2ed784b)
 
 - Update the stock item
 
