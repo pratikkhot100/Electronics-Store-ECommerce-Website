@@ -157,12 +157,11 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 ## ================= MySQL Database =================
 
+- [MySQL Database](https://github.com/pratikkhot100) 
 
 
 ## "Suggestions and project improvement ideas are welcomed!"
 
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Pratik Khot</b>
+- [Pratik Khot](https://github.com/pratikkhot100) 
 
 
