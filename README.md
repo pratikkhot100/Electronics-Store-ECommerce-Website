@@ -94,6 +94,8 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Registration Mail
   
+ ![Screenshot 2025-04-10 152428](https://github.com/user-attachments/assets/62d68a39-bf7c-4c49-b421-c880f4754641)
+
 
 - Category Wise Product Filter
 
@@ -128,6 +130,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
  ![Screenshot 2025-04-08 163005](https://github.com/user-attachments/assets/f595cbfb-9c12-4924-ad16-52031cd76711)
 
 - Recent Orders yet to be shipped
+  
 
 - Add Product to the stock
 
@@ -140,8 +143,12 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 - Update the stock item
 
 - Sample Email for order placed
+  
+ ![Screenshot 2025-04-10 152605](https://github.com/user-attachments/assets/b717d110-4cad-4476-8be8-bceb71930e6a)
 
 - Class Diagram
+
+  ![image](https://github.com/user-attachments/assets/8d3c7984-2a8e-4d9d-88f2-1871ce721676)
 
 
 ## ================= MySQL Database =================
