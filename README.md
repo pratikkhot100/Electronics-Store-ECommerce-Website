@@ -1,7 +1,7 @@
-# Electronics Store ECommerce Website
+# 🛒 Electronics Store ECommerce Website
 E-Commerce Website Project in Java, JDBC, Servlets, JSP. Built for selling of goods online and managing the cart items of the user and providing them better facilities like adding items, removing items, increase or decrease item quantity this is an E-Commerce Website build for selling of any electronics products online.
 
-## About
+## 📌 About
 
 In this projects a user can visit the websites, registers and login to the website. They can check all the products available for shopping, filter and search item based on different categories, and then add to cart. They can add multiple item to the cart and also plus or minus the quantity in the cart. Once the cart is updated, the user can proceed to checkout and click the credit card payment details to proceed. Once the payment is success the orders will be placed and users will be able to see the orders details in the orders section along with the shipping status of the product.
 
@@ -12,29 +12,37 @@ Sometimes, if the user tried to add any item which is out of stock, them they wi
 
 Note: The payment page is created only for demo purpose and its not fully integrated with any payment gateway. So for now any credit card details will be accepted and the demo orders will be placed.
 
-## Highlights :--
+---
 
-### The users will get a mail to their registered mail Id during:-
+## ✨ Highlights :--
+
+### 📧 The users will get a mail to their registered mail Id during:-
 - New User Registration
 - Order Successfully Placed
 - The Item was out of stock while exploring but now it got available in the store
 - Successful shipment and delivery of the Item
 
-## Admin Actions:-
+---
+
+## 👨‍💼 Admin Actions:-
 - View, search and filter items in the store
 - Add More Product Items In the Store
 - View, Update and Remove Stock Items
 - View all the shipped and unshipped orders
 - Ship the recent orders from the store
-  
-## Mailing Functionality:-
+
+---
+
+## 📬 Mailing Functionality:-
 - Customers will receive mails to their registered mail id, when:-
 - Customer Registers for the first time
 - Order is Placed Successfully
 - Order Item is Shipped
 - Out of stock items got available
 
-## Customer Actions:-
+---
+
+## 🙋‍♂️ Customer Actions:-
 - Place Orders using after demo payment
 - View Previous Orders History
 - Track Order Status
@@ -46,7 +54,9 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - Update and remove item from cart
 - Proceed with demo credit card payment
 
-## Technologies used:-
+---
+
+## 🛠️ Technologies used:-
 1. Front-End Development:
 - HTML
 - CSS
@@ -62,8 +72,9 @@ Note: The payment page is created only for demo purpose and its not fully integr
 3. Database:
 - MySql
 
+---
 
-## ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
+## 🔐 ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 Step 1: Create a gmail account or login to existing account in any browser
 
 Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.com/security) and check if 2 step verifications is enabled or not, enable it if not enabled
@@ -76,9 +87,9 @@ Step 5: After that it will generate 16 digits app password which you need to cop
 
 Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
   
+---
 
-
-## Some Screenshots for the project:
+## 📸 Some Screenshots for the project:
 
 - Home Page
 
@@ -154,8 +165,9 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
    <img width="589" alt="database png" src="https://github.com/user-attachments/assets/1af684ab-c795-4beb-b810-92768c5dad6f" />
 
+---
 
-## ================= MySQL Database =================
+## 🗃️ ================= MySQL Database =================
 
  STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
@@ -165,7 +177,9 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
  STEP 3: Copy paste and execute the MySQL Query from the following file:-
  - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Electronics-Store-ECommerce-Website/blob/main/mysql_database.sql) 
 
-## "Suggestions and project improvement ideas are welcomed!"
+---
+
+## 💡 "Suggestions and project improvement ideas are welcomed!"
 
 - [Pratik Khot](https://github.com/pratikkhot100) 
 
