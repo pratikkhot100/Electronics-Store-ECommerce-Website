@@ -75,6 +75,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 ---
 
 ## 🔐 ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
+
 Step 1: Create a gmail account or login to existing account in any browser
 
 Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.com/security) and check if 2 step verifications is enabled or not, enable it if not enabled
