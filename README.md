@@ -156,7 +156,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 - Class Diagram
 
- <img width="589" alt="database png" src="https://github.com/user-attachments/assets/1af684ab-c795-4beb-b810-92768c5dad6f" />
+   <img width="589" alt="database png" src="https://github.com/user-attachments/assets/1af684ab-c795-4beb-b810-92768c5dad6f" />
 
 ---
 
