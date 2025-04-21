@@ -1,6 +1,7 @@
 # 🛒 Electronics Store ECommerce Website
 E-Commerce Website Project in Java, JDBC, Servlets, JSP. Built for selling of goods online and managing the cart items of the user and providing them better facilities like adding items, removing items, increase or decrease item quantity this is an E-Commerce Website build for selling of any electronics products online.
 Users can register, browse products, add to cart, and checkout with payment. Admin manages inventory and orders. Email notifications update users on registration, purchases, shipping, and stock availability.
+
 Note: The payment page is created only for demo purpose and its not fully integrated with any payment gateway. So for now any credit card details will be accepted and the demo orders will be placed.
 
 ---
